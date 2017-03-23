@@ -3,3 +3,8 @@ What is an Android permission?
 	- By default, the app does not have permission to do some actions if they are not prior permitted. Usually those actions 
 	involve communication with other apps or the internet. So before using the internet or sending a text message via your app 
 	or using the camera, permission must be set in the AndroidManifest.xml
+
+What kind of permissions are there?
+
+	- There are Normal Permissions (access to the Internet, vibrate the device, set the time zone, network connectivity status)
+	and there are Dangerous Permissions (Use camera, access call log, access contacts, record audio).
