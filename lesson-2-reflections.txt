@@ -1,0 +1,5 @@
+What is an Android permission?
+
+	- By default, the app does not have permission to do some actions if they are not prior permitted. Usually those actions 
+	involve communication with other apps or the internet. So before using the internet or sending a text message via your app 
+	or using the camera, permission must be set in the AndroidManifest.xml
