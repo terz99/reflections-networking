@@ -7,3 +7,12 @@ What is SimpleDateFormat?
 
 	- SimpleDateFormat is a class which provides parsing dates from text and vice versa. The date can be parsed in many ways
 	(see link: https://developer.android.com/reference/java/text/SimpleDateFormat.html ).
+
+What is a drawable? What is GradientDrawable?
+
+	- Drawable resource is a concept for a graphic that can be drawn or shown on a screen 
+	(see link: https://guides.codepath.com/android/Drawables ). 
+	GradientDrawable is a class in Java which actually gets link from the resource file. This is an extended class from
+	the superclass Drawable and it provides color manipulations for buttons, backgrounds, etc. 
+	(see link: https://developer.android.com/reference/android/graphics/drawable/GradientDrawable.html ) 
+	
