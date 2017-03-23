@@ -1,0 +1,4 @@
+What is JSON?
+
+	- JSON is JavaScript Object Notation. Is a data-interchange format. It is easy for humans to read and easy for
+	computers to parse and generate.
