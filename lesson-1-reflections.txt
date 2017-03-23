@@ -2,3 +2,8 @@ What is JSON?
 
 	- JSON is JavaScript Object Notation. Is a data-interchange format. It is easy for humans to read and easy for
 	computers to parse and generate.
+
+What is SimpleDateFormat?
+
+	- SimpleDateFormat is a class which provides parsing dates from text and vice versa. The date can be parsed in many ways
+	(see link: https://developer.android.com/reference/java/text/SimpleDateFormat.html ).
