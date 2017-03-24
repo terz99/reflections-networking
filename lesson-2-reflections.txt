@@ -30,3 +30,8 @@ What are HTTP response codes?
 
 	- HTTP response codes are Integers which indicate wheather the response was successful or not. There are several response codes,
 	see the link ( https://en.wikipedia.org/wiki/List_of_HTTP_status_codes ).
+
+What is a StringBuilder?
+
+	- A StringBuilder is a Java class which can make a mutable string, meaning that the String can be modified in any way
+	that the developer wants, unlike the String object which can be initialized only once.
