@@ -8,3 +8,8 @@ What kind of permissions are there?
 
 	- There are Normal Permissions (access to the Internet, vibrate the device, set the time zone, network connectivity status)
 	and there are Dangerous Permissions (Use camera, access call log, access contacts, record audio).
+
+What is an HTTP request? Explain!
+
+	- HTTP request is a query request that he app sends to a web server using a specific method (like GET method). It connects
+	the app to the internet and requests a query from a web server.
