@@ -25,3 +25,8 @@ Explain the Android System Architecture?
 			the Android OS.
 			- Physical Hardware Layer: this layer is triggered by the Android OS itself and this layer contains
 			all the hardware on the device like CPU, GPU, microchips, etc.
+
+What are HTTP response codes?
+
+	- HTTP response codes are Integers which indicate wheather the response was successful or not. There are several response codes,
+	see the link ( https://en.wikipedia.org/wiki/List_of_HTTP_status_codes ).
