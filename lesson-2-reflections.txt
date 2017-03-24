@@ -13,3 +13,15 @@ What is an HTTP request? Explain!
 
 	- HTTP request is a query request that he app sends to a web server using a specific method (like GET method). It connects
 	the app to the internet and requests a query from a web server.
+
+Explain the Android System Architecture?
+
+	- The Android System Architecture at the simplest contains four layers:
+			- App: this layer is on the top and is the actual app functionality which the developers implement
+			- Framework: The Android Framework provides the developers bunch of tools which he or she can use
+			to make powerful actions with just a few lines of code.
+			- Android OS: This layer connects the app with the Physical Hardware Layer and does pretty much
+			all of the weight lifting, meaning that all the big functionalities of the app are completed by
+			the Android OS.
+			- Physical Hardware Layer: this layer is triggered by the Android OS itself and this layer contains
+			all the hardware on the device like CPU, GPU, microchips, etc.
