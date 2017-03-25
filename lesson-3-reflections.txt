@@ -1,0 +1,5 @@
+What is a Thread in Java?
+
+	- A Thread is a Java class which extents the Object class and implements the Runnable interface. This means that a thread
+	is a thread of execution in a program. Java programs can have multiple threads and this is called multitasking. One thread 
+	can do only one task and the developer assigns that task
