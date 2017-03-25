@@ -35,3 +35,9 @@ What is a StringBuilder?
 
 	- A StringBuilder is a Java class which can make a mutable string, meaning that the String can be modified in any way
 	that the developer wants, unlike the String object which can be initialized only once.
+
+What is an Exception in Java?
+
+	- Exceptions are events that occur during the execution of the program that disrupts the normal flow of instructions. In Java,
+	an exception is an object that wraps an error event that occured within a method and it contains information about the error
+	and the type of the error.
