@@ -3,3 +3,11 @@ What is a Thread in Java?
 	- A Thread is a Java class which extents the Object class and implements the Runnable interface. This means that a thread
 	is a thread of execution in a program. Java programs can have multiple threads and this is called multitasking. One thread 
 	can do only one task and the developer assigns that task
+
+What is AsyncTask in Java?
+
+	- AsyncTask is a Java abstract class that provides the user a background thread to do some tasks on it. Usually when
+	the app needs to do some heavy data lifting or do some tasks that will take some amount of time, it is better to
+	NOT make them on the main thread, because it will crash. From there it comes one of the UI rules in android:
+	Never block the main UI.
+
