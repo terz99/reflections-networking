@@ -11,3 +11,14 @@ What is AsyncTask in Java?
 	NOT make them on the main thread, because it will crash. From there it comes one of the UI rules in android:
 	Never block the main UI.
 
+What is a Loader in Java?
+
+	- A Loader lets you fetch some data from data sources. It is very similar to AsyncTask, like working on a different. There are 
+	other benefits from the Loader like:
+		- Loaders provide callback methods when events occur on the UI thread.
+		- Loaders cache results across configuration changes to prevent duplicate queries.
+
+What is the difference between Loader and AsyncTask?
+
+	- The Loader is tied to the Activity/Fragment lifecycle. Once the Activity/Fragment dies, the loaders dies as well. Unlike Loader,
+	AsyncTask is not tied to the lifecycle of the Activty/Fragment and it dies only when it has finished its task.
