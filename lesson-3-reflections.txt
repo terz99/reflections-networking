@@ -22,3 +22,7 @@ What is the difference between Loader and AsyncTask?
 
 	- The Loader is tied to the Activity/Fragment lifecycle. Once the Activity/Fragment dies, the loaders dies as well. Unlike Loader,
 	AsyncTask is not tied to the lifecycle of the Activty/Fragment and it dies only when it has finished its task.
+
+What is a LoaderManager?
+
+	- LoaderManager is an abstract interface in Java which allows the developer to manage programs with multiple loaders.
